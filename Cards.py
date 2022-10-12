@@ -66,4 +66,4 @@ def NewCard(username):
     print(f'\nNew card added to your account.\n')
     print(f'Your Card Number is: {cardNumber}')
     print("You can check your PIN in List of Cards.")
-    backToProfile(username)
+    backToProfile()
